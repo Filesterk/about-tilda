@@ -1,0 +1,16 @@
+{
+  "name": "flexless",
+  "version": "1.0.0",
+  "description": "less sait",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandr Konovalenko",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "less": "^3.11.1"
+  }
+}
