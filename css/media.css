@@ -26,7 +26,7 @@
    menu li{
       margin-bottom: 10px;
    }
-   body header .mainText h1{
+   body header .mainText h2{
       font-size: 40px;
       margin-top: -20px;
    }
@@ -34,9 +34,15 @@
       font-size: 18px;
       margin-bottom: 20px;
    }
+   body .recive h2{
+      font-size: 25px;
+  }
    body .expand{
       padding: 10px;
    }
+   body .expand h2 {
+      font-size: 40px;
+  }
    body .expand .mainText{
       border: none;
       padding: 30px 0;
@@ -122,4 +128,9 @@ width: 100%;
       .wedo3 .container .btn{
          margin-bottom: 20px;
          }
+         
+   
+   body .portfolio h2{
+      text-align: center;
+   }
 }
